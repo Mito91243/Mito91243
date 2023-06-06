@@ -7,8 +7,8 @@ I love exploring new projects, frameworks and languages. Feel free to browse aro
 ### 📝 Recent Roles
 
 <!-- writing starts -->
-* [Software Engineer Intern - Mercedes  - Winter 2023
-* [Software Engineer Intern - Orascom  - Summer 2022
+* Software Engineer Intern - Mercedes  - Winter 2023
+* Software Engineer Intern - Orascom  - Summer 2022
 
 
 <!-- writing ends -->
