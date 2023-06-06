@@ -1,8 +1,8 @@
-### Hi There, I'm Jenn Dryden! 👋
+### Hi There, I'm Philopateer Amir! 👋
 
-⚡ I'm currently a Systems Design Engineer at the University of Waterloo, with a passion for code and design! 🎨
+⚡ I'm currently a Software Engineer at Cairo University, with a passion for code and design! 🎨
 
-I love exploring new projects, frameworks and languages. Feel free to browse around at my previous work and designs, or message me to chat. Bonus points if you want to chat about [Gitmojis](https://gitmoji.dev/)! 😜
+I love exploring new projects, frameworks and languages. Feel free to browse around at my previous work and designs, or message me to chat.
 
 ### 📝 Recent Roles
 
@@ -13,7 +13,6 @@ I love exploring new projects, frameworks and languages. Feel free to browse aro
 
 <!-- writing ends -->
 
-🚀 Check out my website... at [jenndryden.com](https://www.jenndryden.com/).
 
 ---
 
