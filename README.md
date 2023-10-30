@@ -4,12 +4,6 @@
 
 I love exploring new projects, frameworks and languages. Feel free to browse around at my previous work and designs, or message me to chat.
 
-### 📝 Recent Roles
-
-<!-- writing starts -->
-* Software Engineer Intern - Mercedes  - Winter 2024
-* Software Engineer Intern - Orascom  - Summer 2023
-
 
 <!-- writing ends -->
 
