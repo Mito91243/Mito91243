@@ -10,4 +10,3 @@ I love making new scripts for trading and tasks automation . Feel free to browse
 
 ---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Mi2_003?label=Follow&style=social)](https://twitter.com/Mi2_003) ![Profile Views](https://gpvc.arturio.dev/Mi2_003)
